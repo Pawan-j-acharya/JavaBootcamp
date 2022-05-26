@@ -1,0 +1,3 @@
+class without_main{
+	
+}
